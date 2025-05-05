@@ -1,0 +1,102 @@
+career_name,sector,estimated_employment_rate
+Software Engineer,Technology,89
+Nurse,Healthcare,75
+Teacher,Education,77
+Lecturer,Education,80
+Civil Engineer,Engineering,90
+Mechanical Technician,Engineering,91
+Agricultural Officer,Agriculture,78
+Doctor,Healthcare,89
+Pharmacist,Healthcare,92
+Data Analyst,Technology,80
+Electrician,Technical Trades,51
+Plumber,Technical Trades,51
+Police Officer,Public Service,67
+Firefighter,Public Service,64
+Bank Teller,Finance,62
+Accountant,Finance,60
+Economist,Finance,72
+Marketing Officer,Business,68
+Sales Representative,Business,68
+Construction Worker,Construction,52
+Welder,Construction,52
+Tailor,Craftsmanship,58
+Fashion Designer,Creative Arts,48
+Graphic Designer,Creative Arts,43
+Journalist,Media,44
+TV Presenter,Media,59
+Radio Host,Media,57
+Veterinarian,Healthcare,90
+Dentist,Healthcare,80
+Midwife,Healthcare,81
+IT Support Specialist,Technology,80
+Cybersecurity Analyst,Technology,80
+Web Developer,Technology,81
+Mobile App Developer,Technology,78
+UX/UI Designer,Technology,92
+Social Worker,Social Services,64
+Psychologist,Social Services,73
+Human Resource Officer,Business,74
+Logistics Manager,Business,66
+Procurement Officer,Business,63
+Tour Guide,Tourism,43
+Hotel Manager,Tourism,49
+Chef,Hospitality,43
+Waiter,Hospitality,52
+Bartender,Hospitality,46
+Taxi Driver,Transport,40
+Truck Driver,Transport,48
+Pilot,Transport,45
+Flight Attendant,Transport,41
+Customs Officer,Public Service,73
+Immigration Officer,Public Service,60
+Lawyer,Legal,40
+Judge,Legal,59
+Legal Assistant,Legal,55
+Biologist,Science,52
+Chemist,Science,40
+Lab Technician,Science,48
+Environmental Scientist,Science,51
+Geologist,Science,48
+Statistician,Math & Statistics,55
+Mathematician,Math & Statistics,44
+Physicist,Science,46
+Zoologist,Science,58
+Librarian,Education,78
+Archivist,Education,91
+Primary School Teacher,Education,87
+Secondary School Teacher,Education,93
+Principal,Education,75
+Event Planner,Creative Arts,55
+Photographer,Creative Arts,51
+Videographer,Creative Arts,56
+Animator,Creative Arts,47
+Musician,Creative Arts,46
+Actor,Creative Arts,55
+Painter,Creative Arts,49
+Sculptor,Creative Arts,47
+Carpenter,Technical Trades,58
+Mason,Construction,48
+Real Estate Agent,Business,61
+Insurance Agent,Finance,73
+Broker,Finance,62
+NGO Worker,Social Services,63
+Foreign Aid Worker,Social Services,60
+Translator,Language Services,50
+Interpreter,Language Services,40
+Sign Language Interpreter,Language Services,50
+Content Writer,Media,40
+Editor,Media,52
+Publisher,Media,57
+Software Tester,Technology,87
+Network Administrator,Technology,86
+Database Administrator,Technology,78
+DevOps Engineer,Technology,77
+Agricultural Technician,Agriculture,90
+Fisherman,Agriculture,94
+Livestock Farmer,Agriculture,83
+Forestry Officer,Agriculture,79
+Surveyor,Engineering,86
+Urban Planner,Engineering,94
+Architect,Engineering,95
+Quantity Surveyor,Engineering,94
